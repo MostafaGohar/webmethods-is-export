@@ -2,11 +2,9 @@
 A tool written in python to export webMethods Integration Server assets (packages, flow services, adapters, etc..) or specific files to a local directory.
 
 
-Run the following pyinstaller command to build another .exe file from the modified python code:
 
-```bash
-  pyinstaller --onefile --windowed --icon=ISExport.ico ISExport.py
-```
+*ISExport.exe* file located in dist folder
+
 
 Sample Server configuration:
 
@@ -22,5 +20,3 @@ You can export elements copied directly from the IS like so:
 Default.gohar.flow:testFlowService
 ```
 ![image](https://github.com/user-attachments/assets/44e09600-17dd-4113-9584-dbf782a683a9)
-
-
