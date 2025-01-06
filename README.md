@@ -10,9 +10,11 @@ Run the following pyinstaller command to build another .exe file from the modifi
 
 Sample Server configuration:
 
-![image](https://github.com/user-attachments/assets/3b91edee-9b98-42e7-bfc4-4f65f2bae600)
+![image](https://github.com/user-attachments/assets/687cb331-3b98-44c2-9bde-9c8a59b1a2b9)
+
 
 
 Sample Export:
 
-![image](https://github.com/user-attachments/assets/070d7806-7fae-4e0b-9a25-b5d405ae169b)
+![image](https://github.com/user-attachments/assets/fffb5ac0-fe55-430d-b8b9-0e380db4728e)
+
