@@ -16,5 +16,11 @@ Sample Server configuration:
 
 Sample Export:
 
-![image](https://github.com/user-attachments/assets/fffb5ac0-fe55-430d-b8b9-0e380db4728e)
+You can export elements copied directly from the IS like so: 
+
+```bash
+Default.gohar.flow:testFlowService
+```
+![image](https://github.com/user-attachments/assets/44e09600-17dd-4113-9584-dbf782a683a9)
+
 
