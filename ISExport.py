@@ -48,7 +48,7 @@ logger.addHandler(widget_logger)
 
 
 if not os.path.exists(app_data_dir):
-    os.mkdir(app_data_dir)
+    os.makedirs(app_data_dir)
     f = open(app_data_file, "a")
     f.write("{}") #write empty json
     f.close()
@@ -262,7 +262,7 @@ def download_files(sftp_client, remote_dir, local_dir):
         return
 
     if not os.path.exists(local_dir):
-        os.mkdir(local_dir)
+        os.makedirs(local_dir)
     else:
         delete_local_files(local_dir)
 
